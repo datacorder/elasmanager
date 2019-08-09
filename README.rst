@@ -3,7 +3,7 @@ elasmanager
 ===========
 
 
-Add a short description here!
+Library for Elasticsearch management. Still under development
 
 
 Description

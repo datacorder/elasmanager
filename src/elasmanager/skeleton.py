@@ -22,8 +22,8 @@ import logging
 
 from elasmanager import __version__
 
-__author__ = "Luis Angel"
-__copyright__ = "Luis Angel"
+__author__ = "Luis Angel Fernandez"
+__copyright__ = "Luis Angel @ Invisible Bits"
 __license__ = "mit"
 
 _logger = logging.getLogger(__name__)

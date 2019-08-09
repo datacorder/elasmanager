@@ -2,4 +2,4 @@
 Contributors
 ============
 
-* Luis Angel <datacorder@gmail.com>
+* Luis Angel Fernandez <luis@invisiblebits.com>
